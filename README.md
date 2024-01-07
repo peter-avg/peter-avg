@@ -13,6 +13,6 @@
 
 <h3 align="center">Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,latex,git" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,latex,git, flash, pytorch, tensorflow,sklearn" />
   </a>
 </p>
