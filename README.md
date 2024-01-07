@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hey 👋, I'm Peter</h1>
+<h3 align="center">I like coding stuff up</h3>
 
-<!--
-**ntua-el15074/ntua-el15074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=ntua-el15074&label=Profile%20Views&color=534bc3&style=flat" alt="ntua-el15074" /> 
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://www.facebook.com/peter.augerinos.3/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" alt="peter-avgerinos"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Languages and Databases:</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,rust,mysql,sqlite" />
+  </a>
+</p>
+
+<h3 align="center">Tools:</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntua-el15074&show_icons=true&theme=dark&locale=en&layout=donut" alt="ntua-el15074" />
+</p>
