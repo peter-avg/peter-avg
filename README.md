@@ -7,12 +7,12 @@
 
 <h3 align="center">Languages and Databases:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,go,rust,bash,lua,mysql,sqlite,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,go,mysql,sqlite" />
   </a>
 </p>
 
 <h3 align="center">Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vim,neovim,latex,git,postman,flask,pytorch,tensorflow,sklearn" />
+    <img src="https://skillicons.dev/icons?i=linux,vim,neovim,latex,git,postman,flask" />
   </a>
 </p>
