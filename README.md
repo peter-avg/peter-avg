@@ -13,6 +13,6 @@
 
 <h3 align="center">Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,latex,git,postman,fastapi,pydantic,logfire,docker,azure" />
+    <img src="https://skillicons.dev/icons?i=vim,git,postman,fastapi,docker,azure" />
   </a>
 </p>
