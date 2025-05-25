@@ -7,7 +7,7 @@
 
 <h3 align="center">Languages and Databases:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,go,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,go,mysql,postgres" />
   </a>
 </p>
 
