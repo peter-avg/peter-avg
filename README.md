@@ -6,10 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-avg&layout=compact&theme=radical" height=165>
 </p>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=peter-avg&label=Profile%20Views&color=534bc3&style=flat" alt="peter-avg" /> 
-</p>
-
 <h3 align="center">Languages and Databases:</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,go,mysql,postgres" />
