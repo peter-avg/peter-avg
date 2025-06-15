@@ -8,12 +8,12 @@
 
 <h3 align="center">Languages and Databases:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,go,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,go,mysql,postgres" />
   </a>
 </p>
 
 <h3 align="center">Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vim,git,postman,fastapi,docker,azure" />
+    <img src="https://skillicons.dev/icons?i=vim,git,postman,fastapi,docker" />
   </a>
 </p>
